@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Test Jekyll Page
+permalink: /test/
 ---
 
 The purpose of this page is to test the Jekyll feature of github.io
