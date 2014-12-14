@@ -32,6 +32,10 @@ Additional Learning Material
 
 ### Language Tips and Tricks (Advanced) 
 
+Transforming Code into Beautiful, Idiomatic Python
+------------------------------------- | ----------
+Slides | [Slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1)
+
  * Raymond Hettinger - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
 
    [Slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1)
