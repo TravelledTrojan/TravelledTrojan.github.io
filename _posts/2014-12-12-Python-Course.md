@@ -33,6 +33,7 @@ Additional Learning Material
 ### Language Tips and Tricks (Advanced) 
 
  * Raymond Hettinger - Transforming Code into Beautiful, Idiomatic Python (https://www.youtube.com/watch?v=OSGv2VnC0go)
+   [Slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1)
 
  * Mark Smith - Writing Awesome Command-Line Programs in Python (https://www.youtube.com/watch?v=CJ7-SroGtZ8)
 
