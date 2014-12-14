@@ -24,9 +24,11 @@ Additional Learning Material
 
 ### Language Tips and Tricks (Advanced) 
 
-##### Transforming Code into Beautiful, Idiomatic Python
-[Video](https://www.youtube.com/watch?v=OSGv2VnC0go)
+**Transforming Code into Beautiful, Idiomatic Python**
+( [Video](https://www.youtube.com/watch?v=OSGv2VnC0go) 
+|
 [Slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1)
+)
 Learn how to take advantage of features in the python language and standard library from Raymond Hettinger, the developer who created some of these features.
 
 ##### Writing Awesome Command-Line Programs in Python
