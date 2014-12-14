@@ -34,7 +34,7 @@ Additional Learning Material
 
 ##### Transforming Code into Beautiful, Idiomatic Python
 
- * [Video]https://www.youtube.com/watch?v=OSGv2VnC0go)
+ * [Video](https://www.youtube.com/watch?v=OSGv2VnC0go)
 
  * [Slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1)
 
