@@ -40,7 +40,7 @@ Additional Learning Material
 
  * Learn how to take advantage of features in the python language and standard library from Raymond Hettinger, the developer who created some of these features.
 
- ##### Writing Awesome Command-Line Programs in Python
+##### Writing Awesome Command-Line Programs in Python
 
  * [Video](https://www.youtube.com/watch?v=CJ7-SroGtZ8)
 
